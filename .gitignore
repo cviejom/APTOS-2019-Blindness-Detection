@@ -87,3 +87,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Pre-trained weigths
+models/pre-trained_models/
